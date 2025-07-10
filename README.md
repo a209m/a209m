@@ -6,14 +6,14 @@ Front-End Web Developer
 
 I'm a self-taught frontend developer who started coding two years ago.
 
-I have solid experience with HTML, CSS, JavaScript, and ReactJS.
+I have solid experience with **HTML**, **CSS**, **JavaScript**, and **ReactJS**.
 
 Currently working professionally since the past 6 months, and actively building my way toward becoming a Senior Frontend Developer.
 
 I'm passionate about clean UI, reusable components, and continuous learning, etc.
 
-* ✉️  You can contact me at [amrmansour217@gmail.com](mailto:amrmansour217@gmail.com)
-* 🧠  I'm learning React Native
+* ✉️  You can contact me at **[amrmansour217@gmail.com](mailto:amrmansour217@gmail.com)**
+* 🧠  I'm learning **React Native**
 * 🤝  I'm open to collaborating on Portfolio website, task manager, weather app, prayer times app, notes app with tags, product page clone, responsive landing pages, quiz app, GitHub profile viewer.
 * ⚡ Fun fact **I still don't know how to tie my shoes.**
 
