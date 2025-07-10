@@ -15,6 +15,7 @@ I'm passionate about clean UI, reusable components, and continuous learning, etc
 * ✉️  You can contact me at [amrmansour217@gmail.com](mailto:amrmansour217@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Portfolio website, task manager, weather app, prayer times app, notes app with tags, product page clone, responsive landing pages, quiz app, GitHub profile viewer.
+* ⚡ Fun fact **I still don't know how to tie my shoes.**
 
 ### Skills
 
